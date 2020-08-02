@@ -18,3 +18,20 @@ body{
     padding: 10px;
     text-align: justify;
 }
+#header{
+    background-color : rgb(23.5%, 45.5%, 96.9%);
+    padding : 10px;
+    color : white;
+    -webkit-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 4px 5px 0px rgba(0,0,0,0.75);
+}
+#header h1 span{
+    weight: normal;
+    font-size: 18px;
+}
+#header h1 img{
+    float : left;
+    width: 60px;
+    height: 40px;
+}
